@@ -5,8 +5,9 @@ I used pymysql instead of mysqlclient
 please install it using
 `pipenv install pymysql`
 
-restaurant/menu
-restaurant/menu/{id}
-restaurant/booking/tables
-restaurant/booking/tables/{id}
+# Project end points
+## restaurant/menu
+## restaurant/menu/{id}
+## restaurant/booking/tables
+## restaurant/booking/tables/{id}
 
