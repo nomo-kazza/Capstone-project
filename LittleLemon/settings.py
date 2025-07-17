@@ -38,6 +38,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'restaurant',  # Custom app for the Little Lemon restaurant
+    'rest_framework',  # Django REST framework for API development
 ]
 
 MIDDLEWARE = [
