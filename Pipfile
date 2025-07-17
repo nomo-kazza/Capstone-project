@@ -8,6 +8,7 @@ django = "*"
 pymysql = "*"
 cryptography = "*"
 djangorestframework = "*"
+djoser = "*"
 
 [dev-packages]
 
